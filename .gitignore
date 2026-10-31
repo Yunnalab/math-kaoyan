@@ -1,0 +1,4 @@
+# 大文件（>100 MiB）由 Git LFS 管理，见 .gitattributes
+
+# agent 工作目录
+.pi/plans/

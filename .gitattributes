@@ -1,0 +1,4 @@
+# 大文件一律走 Git LFS（GitHub 对普通文件有 100 MiB 硬限制）。
+# 仓库内目录名不含空格，模式里无需 [[:space:]] 转义。
+武忠祥高数基础pdf/*.pdf filter=lfs diff=lfs merge=lfs -text
+张宇1000数一/*.pdf filter=lfs diff=lfs merge=lfs -text
