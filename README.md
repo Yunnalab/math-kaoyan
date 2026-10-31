@@ -2,8 +2,13 @@
 
 27/28 考研数学资料库（数一 / 数二 / 数三，持续调整更新）
 
-- 仓库地址：<https://github.com/Yunnalab/math-kaoyan>
-- 姊妹仓库（408 四科）：<https://github.com/Yunnalab/koyan408for2728>
+## 相关仓库
+
+| 仓库 | 内容 |
+| --- | --- |
+| [math-kaoyan](https://github.com/Yunnalab/math-kaoyan) | 本仓库：考研数学一 / 二 / 三真题与讲义 |
+| [koyan408for2728](https://github.com/Yunnalab/koyan408for2728) | 408 四科：数据结构、计算机组成原理、操作系统、计算机网络 |
+| [english-kaoyan](https://github.com/Yunnalab/english-kaoyan) | 考研英语一 / 英语二真题与解析 |
 
 ## 目录
 
